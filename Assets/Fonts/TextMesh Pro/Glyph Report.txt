@@ -1,0 +1,57 @@
+Font: NeoDunggeunmo Pro  Style: Regular
+Point Size: 32   SP/PD Ratio: 15.6%
+
+Characters included: 11318/11363
+Missing characters: 45
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 127	Hex: 7F	Char []
+ID: 128	Hex: 80	Char []
+ID: 12644	Hex: 3164	Char [ㅤ]
+ID: 12645	Hex: 3165	Char [ㅥ]
+ID: 12646	Hex: 3166	Char [ㅦ]
+ID: 12647	Hex: 3167	Char [ㅧ]
+ID: 12648	Hex: 3168	Char [ㅨ]
+ID: 12649	Hex: 3169	Char [ㅩ]
+ID: 12650	Hex: 316A	Char [ㅪ]
+ID: 12651	Hex: 316B	Char [ㅫ]
+ID: 12652	Hex: 316C	Char [ㅬ]
+ID: 12653	Hex: 316D	Char [ㅭ]
+ID: 12654	Hex: 316E	Char [ㅮ]
+ID: 12655	Hex: 316F	Char [ㅯ]
+ID: 12656	Hex: 3170	Char [ㅰ]
+ID: 12657	Hex: 3171	Char [ㅱ]
+ID: 12658	Hex: 3172	Char [ㅲ]
+ID: 12659	Hex: 3173	Char [ㅳ]
+ID: 12660	Hex: 3174	Char [ㅴ]
+ID: 12661	Hex: 3175	Char [ㅵ]
+ID: 12662	Hex: 3176	Char [ㅶ]
+ID: 12663	Hex: 3177	Char [ㅷ]
+ID: 12664	Hex: 3178	Char [ㅸ]
+ID: 12665	Hex: 3179	Char [ㅹ]
+ID: 12666	Hex: 317A	Char [ㅺ]
+ID: 12667	Hex: 317B	Char [ㅻ]
+ID: 12668	Hex: 317C	Char [ㅼ]
+ID: 12669	Hex: 317D	Char [ㅽ]
+ID: 12670	Hex: 317E	Char [ㅾ]
+ID: 12671	Hex: 317F	Char [ㅿ]
+ID: 12672	Hex: 3180	Char [ㆀ]
+ID: 12673	Hex: 3181	Char [ㆁ]
+ID: 12674	Hex: 3182	Char [ㆂ]
+ID: 12675	Hex: 3183	Char [ㆃ]
+ID: 12676	Hex: 3184	Char [ㆄ]
+ID: 12677	Hex: 3185	Char [ㆅ]
+ID: 12678	Hex: 3186	Char [ㆆ]
+ID: 12679	Hex: 3187	Char [ㆇ]
+ID: 12680	Hex: 3188	Char [ㆈ]
+ID: 12681	Hex: 3189	Char [ㆉ]
+ID: 12682	Hex: 318A	Char [ㆊ]
+ID: 12683	Hex: 318B	Char [ㆋ]
+ID: 12684	Hex: 318C	Char [ㆌ]
+ID: 12685	Hex: 318D	Char [ㆍ]
+ID: 12686	Hex: 318E	Char [ㆎ]
+
+Characters excluded from packing:
+----------------------------------------
